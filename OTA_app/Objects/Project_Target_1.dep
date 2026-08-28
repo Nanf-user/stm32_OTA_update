@@ -783,7 +783,7 @@ I (.\Hardware\Serial.h)(0x69B7AE0F)
 I (F:\keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
 I (.\Hardware\LED.h)(0x69AC0EA2)
 I (.\Hardware\W25Q64.h)(0x69E73F24)
-I (User\ota_config.h)(0x6A9159B7)
+I (User\ota_config.h)(0x6A9178F2)
 I (.\Hardware\ota_uart.h)(0x6A903C5D)
 I (User\ota_app.h)(0x6A911B0A)
 I (.\Hardware\ota_log.h)(0x6A903C4E)
@@ -819,7 +819,7 @@ I (.\Lib\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Lib\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Lib\misc.h)(0x4D783BB4)
 F (.\User\stm32f10x_it.h)(0x4D99A59E)()
-F (.\User\ota_config.h)(0x6A9159B7)()
+F (.\User\ota_config.h)(0x6A9178F2)()
 F (.\User\ota_flash.c)(0x6A912CAD)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\Lib -I .\System -I .\Hardware --no-multibyte-chars-IF:\keil5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\ota_flash.o --omf_browse .\objects\ota_flash.crf --depend .\objects\ota_flash.d)
 I (User\ota_flash.h)(0x6A903C68)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
@@ -850,11 +850,11 @@ I (.\Lib\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Lib\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Lib\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Lib\misc.h)(0x4D783BB4)
-I (User\ota_config.h)(0x6A9159B7)
+I (User\ota_config.h)(0x6A9178F2)
 F (.\User\ota_flash.h)(0x6A903C68)()
 F (.\User\ota_app.c)(0x6A91210F)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\Lib -I .\System -I .\Hardware --no-multibyte-chars-IF:\keil5\ARM\Pack\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\ota_app.o --omf_browse .\objects\ota_app.crf --depend .\objects\ota_app.d)
 I (User\ota_app.h)(0x6A911B0A)
-I (User\ota_config.h)(0x6A9159B7)
+I (User\ota_config.h)(0x6A9178F2)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
 I (.\Start\core_cm3.h)(0x4D523B58)
 I (F:\keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
@@ -1532,5 +1532,5 @@ I (.\Lib\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Lib\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Lib\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Lib\misc.h)(0x4D783BB4)
-I (.\User\ota_config.h)(0x6A9159B7)
+I (.\User\ota_config.h)(0x6A9178F2)
 F (.\Hardware\ota_uart.h)(0x6A903C5D)()
