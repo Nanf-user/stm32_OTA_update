@@ -5,3 +5,23 @@ process_1.txt
 process_2.txt
 OTA_app/Objects/
 OTA_bootloader/Objects/
+# Keil MDK
+*.uvgui*
+Objects/
+Listings/
+RTE/
+build/
+
+# VSCode
+.vscode/
+.claude/
+
+# 编译输出
+*.elf
+*.hex
+*.bin
+*.map
+
+# 临时文件
+*.log
+*.bak
