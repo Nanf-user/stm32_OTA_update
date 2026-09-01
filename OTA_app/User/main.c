@@ -53,6 +53,6 @@ int main(void)
 			LED_1_On();
 			led_on = 1;
 		}
-		Delay_ms(500);
+		Delay_ms(2000);
 	}
 }

@@ -25,7 +25,7 @@
 
 /* ===================== 版本号 (APP 每次发布需手动递增) ===================== */
 #define OTA_APP_VERSION_MAJOR   2
-#define OTA_APP_VERSION_MINOR   1
+#define OTA_APP_VERSION_MINOR   2
 
 /* ===================== OTA 下载串口 (USART2, 与日志 USART1 分离) ===================== */
 #define OTA_UART_BAUD           115200         /* OTA 下载波特率 (ESP32 <-> STM32) */
