@@ -1,27 +1,22 @@
-\.claude
-\.vscode
-code.txt
-process_1.txt
-process_2.txt
-OTA_app/Objects/
-OTA_bootloader/Objects/
-# Keil MDK
+# Keil
 *.uvgui*
-Objects/
-Listings/
-RTE/
-build/
-
-# VSCode
-.vscode/
-.claude/
-
-# 编译输出
-*.elf
+*.axf
 *.hex
 *.bin
+*.elf
 *.map
+*.dep
+*.lst
+*.obj
+*.o
+Objects/
+Listings/
+build/
 
-# 临时文件
-*.log
-*.bak
+# PlatformIO
+.pio/
+.piolibdeps/
+
+# VSCode
+.vscode/*.log
+.claude/
